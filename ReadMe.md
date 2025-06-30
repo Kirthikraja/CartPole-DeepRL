@@ -1,6 +1,6 @@
 # CartPole RL Benchmark Suite
 
-![CartPole-v1](cartpole.png)
+[CartPole-v1](cartpole.png)
 
 This repository unifies three major classes of deep reinforcement learning algorithms on the CartPole-v1 environment:
 
