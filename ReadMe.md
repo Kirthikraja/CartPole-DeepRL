@@ -1,4 +1,4 @@
-# CartPole RL Benchmark Suite
+# CartPole RL
 
 
 
